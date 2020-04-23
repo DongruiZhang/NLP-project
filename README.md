@@ -1,4 +1,4 @@
-# DS8008 NLP final project: Identifying regulations containing outdated technologies
+# DS8008 NLP Final Project: Identifying regulations containing outdated technologies
 
 Authors: Shaofang Xu and Dongrui Zhang
 
